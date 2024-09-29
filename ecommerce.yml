@@ -1,5 +1,5 @@
 token:
-  expiration_time: 8640000011 # 1 day
+  expiration_time: 86400000 # 1 day
   secret: mySuperSecretKeyThatIsAtLeast64BytesLongAndVeryVerySecureKeyForHS512
 
 gateway:
